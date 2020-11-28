@@ -35,3 +35,4 @@ C:\Users\Domin\source\repos\RiddleWebService\RiddleWebService\obj\Debug\netcorea
 C:\Users\Domin\source\repos\RiddleWebService\RiddleWebService\obj\Debug\netcoreapp3.1\RiddleWebService.pdb
 C:\Users\Domin\source\repos\RiddleWebService\RiddleWebService\obj\Debug\netcoreapp3.1\RiddleWebService.genruntimeconfig.cache
 C:\Users\Domin\source\repos\RiddleWebService\RiddleWebService\obj\Debug\netcoreapp3.1\RiddleWebService.csproj.CopyComplete
+C:\Users\Domin\source\repos\RiddleWebService\RiddleWebService\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\RiddleWebService - Web Deploy\profile.arm.json
